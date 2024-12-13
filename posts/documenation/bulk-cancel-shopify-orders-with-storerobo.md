@@ -1,7 +1,7 @@
 ---
 title: Bulk Cancel Shopify Orders with StoreRobo
 date: 2024-12-13 10:01:00
-modified: 2024-12-13 11:44:39
+modified: 2024-12-13 11:47:11
 categories:
   - documenation
   - documenation/storerobo/import
@@ -10,7 +10,7 @@ categories:
 
 
 <!-- wp:paragraph -->
-<p>Whether you are testing, have a large number of spam orders, or have an inventory shortage, you may want to cancel many orders quickly. While Shopify provides options to cancel orders, canceling orders one by one in Shopify is not easy if you are working with many orders.  </p>
+<p>Whether you are testing, have a large number of spam orders, or have an inventory shortage, you may want to cancel many orders quickly. While Shopify provides options to cancel orders, canceling orders one by one in Shopify is not easy if you are working with many orders.a</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
