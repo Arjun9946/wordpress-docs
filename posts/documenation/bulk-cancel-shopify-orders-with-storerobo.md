@@ -1,11 +1,9 @@
 ---
 title: Bulk Cancel Shopify Orders with StoreRobo
 date: 2024-12-13 10:01:00
-modified: 2024-12-13 11:43:55
+modified: 2024-12-13 11:44:15
 categories:
   - documenation
-  - documenation/smart-coupons/gift-card
-  - documenation/smart-coupons
 ---
 
 
