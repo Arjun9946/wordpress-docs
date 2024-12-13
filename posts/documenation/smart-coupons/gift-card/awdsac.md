@@ -6,9 +6,6 @@ categories:
   - documenation
   - documenation/smart-coupons/gift-card
   - documenation/smart-coupons
-images:
-  - original: http://learn.local/wp-content/uploads/2024/12/2024-12-11_11-03-58-1024x141.png
-    github: posts/images/awdsac-2024-12-11_11-03-58-1024x141.png
 ---
 
 
