@@ -1,7 +1,7 @@
 ---
 title: Set Up Usage Restrictions for WooCommerce Gift Cards
 date: 2024-12-13 10:30:45
-modified: 2024-12-13 11:54:02
+modified: 2024-12-13 12:25:35
 categories:
   - documenation/smart-coupons/bogo
   - documenation
@@ -10,7 +10,7 @@ categories:
 
 
 <!-- wp:paragraph -->
-<p></p>
+<p>awsdjhvsczbkdnfcdsjvhc</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
