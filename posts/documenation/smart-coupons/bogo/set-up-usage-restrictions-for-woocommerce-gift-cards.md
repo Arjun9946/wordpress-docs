@@ -1,7 +1,7 @@
 ---
 title: Set Up Usage Restrictions for WooCommerce Gift Cards
 date: 2024-12-13 10:30:45
-modified: 2024-12-13 11:53:19
+modified: 2024-12-13 11:54:02
 categories:
   - documenation/smart-coupons/bogo
   - documenation
@@ -10,7 +10,7 @@ categories:
 
 
 <!-- wp:paragraph -->
-<p>Gift cards have become a common trend in online satores. This feature not only provides a flexible gift-giving option, but it also plays a crucial part in increasing cash flow and advancing sales, seasonal and event-based marketing, and more, and the <a href="https://www.webtoffee.com/product/woocommerce-gift-cards/">WebToffee WooCommerce Gift Cards </a>plugin integrates this feature and some more to your online store.</p>
+<p></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
